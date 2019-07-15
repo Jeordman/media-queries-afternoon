@@ -1,0 +1,97 @@
+.main-header {
+  width: 100vw;
+  height: 10vh;
+  background-color: #21252a;
+  display: flex;
+  background-color:rgba(33, 37, 42, 0.5);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.title-logo {
+  color: #fad048;
+  font-size: 3vh;
+  margin-top: 3vh;
+  margin-left: 25vw;
+  font-family: 'Mrs Sheppards', cursive;
+
+}
+
+.taskbar-list {
+display: flex;
+  width: auto;
+  height: 4vh;
+  color: rgb(255, 255, 255);
+  font-weight: 400;
+  margin-top: 4vh;
+  margin-left: 22vw;
+}
+
+.links{
+margin-left: 1vw;
+}
+
+.links:hover{
+    cursor: pointer;
+    color: #fad048
+}
+
+.title-logo:hover {
+  cursor: pointer;
+}
+
+.title-logo:hover {
+  cursor: pointer;
+}
+
+.main-pic {
+  height: 75vh;
+  width: 100vw;
+  background-size: auto;
+  background-image: url("https://blackrockdigital.github.io/startbootstrap-agency/img/header-bg.jpg");
+  background-position: center;
+}
+
+.welcome {
+  color: white;
+  width: 100vw;
+  text-align: center;
+  height: 12vh;
+  position: absolute;
+  margin-top: 30vh;
+  font-size: 60px;
+  font-family: 'Oregano', cursive;
+
+}
+
+.meet-you {
+  color: white;
+  text-align: center;
+  width: 100vw;;
+  height: 12vh;
+  position: absolute;
+  margin-top: 38vh;
+  font-size: 100px;
+  font-weight: 700;
+}
+
+.more-button{
+    width: auto;
+    height: 7vh;
+    background-color: #fad049;
+    color: white;
+    padding: 5px 32px;
+    position: absolute;
+    margin-top: 52vh;
+    margin-left: 42vw;
+    font-size: 25px;
+    font-weight: 400;
+    border-radius: 10px;
+    border: none;
+}
+
+.more-button:hover{
+    cursor: pointer;
+}
+

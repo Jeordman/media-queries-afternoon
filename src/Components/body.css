@@ -1,0 +1,25 @@
+.services-section {
+  position: relative;
+  margin-top: 10vh;
+  color: black;
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.services-text {
+  position: relative;
+  margin-top: 2vh;
+  color: rgb(128, 128, 128);
+  font-style: italic;
+  opacity: 0.7;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.text {
+  position: relative;
+  margin-top: 40vh;
+  color: rgb(128, 128, 128);
+}
